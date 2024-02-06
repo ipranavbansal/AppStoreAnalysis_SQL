@@ -5,7 +5,7 @@
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Results/Findings](#results)
-
+---
 
 ### Project Overview
 
@@ -16,41 +16,40 @@ Target Insights could be like -
 2. Is there any effect of no. of supported languages on average user rating?
 3. Is there any effect of paid or unapid version of apps on average user ratings?
 
--------------------------------------
+---
 
 ### Data Sources
 
 - Keep in mind, SQL online Editor doesnt allow to import file > 4MB, so we have break down the file apple_description.csv into 4 parts and after importing, with the help of UNION ALL we can combine it in a single table.
 
--------------------------------------
+---
 
 ### Tools 
 
 - [SQL Online Editor](https://sqliteonline.com) - for data analysis
--------------------------------------
+---
 ### Results
 
 1. Length >2000 as app description has greater average user rating compared to other buckets <1000 and 1000-2000.
 2. Best average user rating came for the languages around 10-15 bucket.
 3. Paid apps has an average user rating of 3.7, whereas free app falls down to 3.4 
 
--------------------------------------
-
+---
 ### Recommendations
 
 1. Write longer app descriptions, greater than 2000 characters.
 2. NO noeed to maximise on supported languages, keep it around 10-15.
 3. You can go with paid apps as they have bettter user base and reviews.
--------------------------------------
+---
 
 ### Limitations
 
 ##### NA
--------------------------------------
+---
 ### References
 
 ##### NA
--------------------------------------
+---
 ### Codebase
 
 ```SQL
