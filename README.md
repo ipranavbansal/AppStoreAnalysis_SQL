@@ -1,4 +1,4 @@
-# AppStoreAnalysis_SQL
+## AppStoreAnalysis_SQL
 
 ## Table of Contents
 
