@@ -30,9 +30,10 @@ Target Insights could be like -
 ---
 ### Results
 
-1. Length >2000 as app description has greater average user rating compared to other buckets <1000 and 1000-2000.
+1. App description has positive correlation with app ratings.
 2. Best average user rating came for the languages around 10-15 bucket.
-3. Paid apps has an average user rating of 3.7, whereas free app falls down to 3.4 
+3. Paid apps has better average user rating of 3.7, whereas free ones are around 3.4.
+4. Finance and Books have least average user rating.
 
 ---
 ### Recommendations
@@ -40,6 +41,7 @@ Target Insights could be like -
 1. Write longer app descriptions, greater than 2000 characters.
 2. NO noeed to maximise on supported languages, keep it around 10-15.
 3. You can go with paid apps as they have bettter user base and reviews.
+4. There is chance of category penetration as user needs are not met in these categories.
 ---
 
 ### Limitations
